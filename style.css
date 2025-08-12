@@ -1,0 +1,21 @@
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.Titulo {
+    text-align: center;
+}
+.lista-quadrada {
+    list-style-type: square;
+    padding-left: 20px;
+}
+.titulo-em-cima{
+    text-align: center;
+}
+.lista1 {
+    margin-left: 30px;
+}
