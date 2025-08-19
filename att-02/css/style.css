@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* filmes de Rj */
+
+.filmeRjLiabela {
+    color: darkred;
+    font-size: 20px;
+}
+
+.filmeRjMeuNomeJohny {
+    color: darkred;
+    font-size: 20px;
+}
+
+.filmeRjOCheiro {
+    color: darkblue;
+    font-size: 20px;
+}
+
+/*Filmes de Sao paulo */
+
+.filmeSpLiabela {
+    color: darkred;
+    font-size: 20px;
+}
+
+.filmeSpJohhny {
+    color: darkred;
+    font-size: 20px;
+}
+
+.filmeSpOCheiro {
+    color: darkblue;
+    font-size: 20px;
+}
+
+#selecionarEstado a {
+    color: seagreen;
+    text-decoration: none;
+}
+
+#voltarTelaInicial a {
+    text-decoration: none;
+}
