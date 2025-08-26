@@ -1,0 +1,29 @@
+#tituloHomepage{
+    text-align: center;
+    font-family: arial, sans-serif;
+}
+#carroEPreco, #bicicletaEPreco{
+  background-color: #111;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 600px;   
+  margin: 20px 40px;  
+}
+
+#carroEPreco button, #bicicletaEPreco button{
+  background: #ffcc00;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.destaque {
+  color: #ffcc00;   
+  font-weight: bold;
+}
+#subTextoCarro, #subTextoBicicleta{
+    color: #b2b2b2;
+}
