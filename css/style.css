@@ -1,0 +1,36 @@
+.produto{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    gap: 30px;
+    
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+}
+.produto-imagem img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.preco span{
+    background-color: gray;
+    font-size: 1em;
+    color: #e0e0e0;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 11px;
+    margin-top: 20px;
+}
+.botaoComprar button{
+    padding: 12px 25px;
+    font-size: 1em;
+    background-color: #e751db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
